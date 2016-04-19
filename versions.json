@@ -1,0 +1,30 @@
+[
+  {
+    "distro": "jessie-2016-03-18",
+    "uname": "Linux raspberrypi 4.1.19+ #858 Tue Mar 15 15:52:03 GMT 2016 armv6l GNU/Linux",
+    "firmware_hash": "951799bbcd795ddf27769d14acf4813fdcbe53dc",
+    "kernel_hash": "20fe468af4bb40fec0f81753da4b20a8bfc259c9",
+    "file": "2016-03-18-raspbian-jessie.gz"
+  },
+  {
+    "distro": "jessie-2016-02-26",
+    "uname": "Linux raspberrypi 4.1.18+ #846 Thu Feb 25 14:11:56 GMT 2016 armv6l GNU/Linux",
+    "firmware_hash": "18971a9d261bd1a0298cd3a11124b31b1e326c3a",
+    "kernel_hash": "2f9dd6a9a79c7d88068e65e98d3a159ecb7a0a9b",
+    "file": "2016-02-26-raspbian-jessie.gz"
+  },
+  {
+    "distro": "jessie-2016-02-09",
+    "uname": "Linux raspberrypi 4.1.17+ #838 Tue Feb 9 12:57:10 GMT 2016 armv6l GNU/Linux",
+    "firmware_hash": "3442862c10fab68c2e88d660d2e69c143bb1f00c",
+    "kernel_hash": "ca312f557513e057c456598528e663fe9d009498",
+    "file": "2016-02-09-raspbian-jessie.gz"
+  },
+  {
+    "distro": "jessie-2016-02-03",
+    "uname": "Linux raspberrypi 4.1.17+ #834 Mon Feb 1 15:13:47 GMT 2016 armv6l GNU/Linux",
+    "firmware_hash": "cb2ffaa5503ac53039d40715965480dd66f0aa20",
+    "kernel_hash": "6330c27817186caf38fc80e467cf858d9dd167fd",
+    "file": "2016-02-03-raspbian-jessie.gz"
+  },
+]
