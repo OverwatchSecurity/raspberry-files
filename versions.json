@@ -12,19 +12,5 @@
     "firmware_hash": "18971a9d261bd1a0298cd3a11124b31b1e326c3a",
     "kernel_hash": "2f9dd6a9a79c7d88068e65e98d3a159ecb7a0a9b",
     "file": "jessie-2016-02-26.config"
-  },
-  {
-    "distro": "jessie-2016-02-09",
-    "uname": "Linux raspberrypi 4.1.17+ #838 Tue Feb 9 12:57:10 GMT 2016 armv6l GNU/Linux",
-    "firmware_hash": "3442862c10fab68c2e88d660d2e69c143bb1f00c",
-    "kernel_hash": "ca312f557513e057c456598528e663fe9d009498",
-    "file": "jessie-2016-02-09.config"
-  },
-  {
-    "distro": "jessie-2016-02-03",
-    "uname": "Linux raspberrypi 4.1.17+ #834 Mon Feb 1 15:13:47 GMT 2016 armv6l GNU/Linux",
-    "firmware_hash": "cb2ffaa5503ac53039d40715965480dd66f0aa20",
-    "kernel_hash": "6330c27817186caf38fc80e467cf858d9dd167fd",
-    "file": "jessie-2016-02-03.config"
-  },
+  }
 ]
