@@ -15,4 +15,4 @@ mkdir $2
 
 (cd $1; cp .config $2/.config)
 
-rm "packfiles"
+trap 'rm packfiles' EXIT
